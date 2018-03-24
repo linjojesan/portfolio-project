@@ -4,7 +4,6 @@ body {
   font-family: "Oswald", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
-
 .column {
   width: 300px;
   margin-top:20px;
@@ -21,28 +20,16 @@ body {
   font-weight: bolder;
   text-shadow: 2px 2px #E0CE04;
   padding-top: 50;
-
 }
-
-
-
 .card {
   background: #E0CE04;
   float: left;
+  margin-right: 150px;
 }
-
-
   .card-header {
     color: black;
   }
 
-
-
-}
-
-.card-header {
-  color: black;
-}
 
 h2 {
   color: #black;
@@ -52,17 +39,14 @@ div#first section {
   display: block;
   float: left;
 }
-h3 {
 
+h3 {
 
   font-family: lora;
   color: #E0CE04;
   text-align: center;
   float: right;
-
-
 }
-
 
 
 div.container {
@@ -73,12 +57,10 @@ div.container {
   margin-bottom: 230px;
 
   width: 50%;
-
 }
 
 .col-md-4 section1 {
   background-color: #E0CE04
-
 }
 
 a  {
