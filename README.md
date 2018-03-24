@@ -16,4 +16,4 @@
 ### License
 copyright (c)2018 John Linneman
 
-#MIT License 
+#MIT License
