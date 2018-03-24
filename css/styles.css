@@ -1,0 +1,86 @@
+body {
+  background-color: black;
+  background-size: cover;
+  font-family: "Oswald", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+
+.column {
+  width: 300px;
+  margin-top:20px;
+  float: left;
+  background-color: #E0CE04;
+  margin-right:50px;
+  border: 2px solid white;
+  padding: 4px;
+}
+.name {
+  color: #E0CE04;
+  text-align: left;
+  font-size: 100px;
+  font-weight: bolder;
+  text-shadow: 2px 2px #E0CE04;
+  padding-top: 50;
+
+}
+
+
+
+.card {
+  background: #E0CE04;
+  float: left;
+}
+
+
+  .card-header {
+    color: black;
+  }
+
+
+
+}
+
+.card-header {
+  color: black;
+}
+
+h2 {
+  color: #black;
+}
+
+div#first section {
+  display: block;
+  float: left;
+}
+h3 {
+
+
+  font-family: lora;
+  color: #E0CE04;
+  text-align: center;
+  float: right;
+
+
+}
+
+
+
+div.container {
+  background-color: #E0CE04;
+  padding-top: 30px;
+  margin-top: 5px;
+  margin-left: 30px;
+  margin-bottom: 230px;
+
+  width: 50%;
+
+}
+
+.col-md-4 section1 {
+  background-color: #E0CE04
+
+}
+
+a  {
+color: black;
+}
